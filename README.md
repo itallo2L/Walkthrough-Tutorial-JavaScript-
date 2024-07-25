@@ -1,4 +1,4 @@
-# Walkthorugh Tutorial
+# Walkthrough Tutorial
 
 ![image](https://github.com/user-attachments/assets/3c58314c-0f42-4d9c-9527-890db55bf768)
 
